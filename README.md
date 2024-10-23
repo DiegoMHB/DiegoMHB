@@ -1,4 +1,4 @@
-##Hello everybody, 
+## Hello everybody, 
 I'm Diego. I recently changed careers: from architect to programmer! I started programming out of curiosity, trying to apply it to architecture, and eventually decided to switch. What I like about programming is its potential connection with any discipline, solving different types of problems, the logic, the fact that design is involved... I like to think that with just my computer, I can create a product that can be useful.
 
 Currently, I’m deepening my knowledge of JavaScript, with React and NextJS, by working on personal projects — you can check them out in my repositories! But I didn’t just learn frontend; backend excites me too, and I use Express and Koa, usually with Mongo.
