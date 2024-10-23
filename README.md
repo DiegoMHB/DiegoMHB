@@ -10,7 +10,7 @@ If you want to contact me, you can reach me through GitHub: https://github.com/d
 or my email dmhb17@gmail.com.
 
 ## Languages and Tools:
-<div style="width:100%; display:flex; flex-direction:row; justify-content:space-between; align-items:center; background-color:rgb(10,10,10)">
+<div style="width:100%; display:flex; flex-direction:row; justify-content:space-between; align-items:center;gap:10px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70"/>
