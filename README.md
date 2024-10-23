@@ -10,17 +10,17 @@ If you want to contact me, you can reach me through GitHub: https://github.com/d
 or my email dmhb17@gmail.com.
 
 ## Languages and Tools:
-<div styles="display:flex; flex-direction:rows">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="100"/>
+<div styles="display:flex; flex-direction:rows; justify-content: space-between; align-items:center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49wiYHrvjAru9ll4tKC37_2jj9k7Kxh6VST7vS3BQEWM3tkcF8OeDXdQ_MP_270XtWbo&usqp=CAU" alt="Koa" width="100"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo" width="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49wiYHrvjAru9ll4tKC37_2jj9k7Kxh6VST7vS3BQEWM3tkcF8OeDXdQ_MP_270XtWbo&usqp=CAU" alt="Koa" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo" width="70"/>
 
 </div>
 
