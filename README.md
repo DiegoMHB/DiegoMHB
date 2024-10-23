@@ -17,7 +17,7 @@ or my email dmhb17@gmail.com.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49wiYHrvjAru9ll4tKC37_2jj9k7Kxh6VST7vS3BQEWM3tkcF8OeDXdQ_MP_270XtWbo&usqp=CAU" alt="Koa" width="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo" width="70"/>
